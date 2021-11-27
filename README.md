@@ -9,6 +9,7 @@
 登陆上传CK还事这一部分没有变，滑块轨迹变了 轨迹我就不放出来了 容易凉
 
 由于我自己的环境是centos x86，arm不支持
+我是debian11 这样nvjdc访问青龙要用docker下的青龙ip
 
 
 在Fork就跑路
